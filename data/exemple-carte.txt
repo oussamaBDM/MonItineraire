@@ -1,0 +1,27 @@
+Voici à quoi ressemble le réseau d'exemple.
+Les villes sont A, B, C, ... etc
+Le nom de la ville est:
+    - précédé par un · si la ville a un aéroport
+    - suivi par , si la ville a une gare ferrovière
+    - suivi par . si la ville a une gare routière (bus)
+    - suivi par ; si la ville a une gare ferrovière et une gare routière 
+
+Les villes sont disposées à peu près de cette manière sur une carte:
+-----------------------------------------
+         D.   ·L;                        
+                          ·J.          
+     H.            F;                    
+                       N;              
+                                     
+               O;                      
+·I.                      M;              
+                                     
+                   G,                  
+·K;                               ·C.    
+                                     
+                ·E,                    
+                                     
+     B;                                
+                                     
+         A;                            
+------------------------------------------
